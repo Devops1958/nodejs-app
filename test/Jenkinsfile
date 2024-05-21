@@ -1,0 +1,11 @@
+pipeline{
+    agent any
+
+    stages{
+        stage('Dep install'){
+            steps{
+                sh
+            }
+        }
+    }
+}
