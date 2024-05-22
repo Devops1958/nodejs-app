@@ -1,6 +1,6 @@
 {
-  "name": "my-app",
-  "version": "1.2.0",
+  "name": "utc-app",
+  "version": "1.3.0",
   "description": "Creating node application with login screen and testing it using Selenium",
   "main": "index.js",
   "type": "module",
